@@ -1,0 +1,11 @@
+Time Step # 2
+SSSS
+SSSS
+SSSS
+SRII
+SSIS
+
+Susceptible Patients: 16
+Infected Patients: 3
+Recovered Patients: 1
+Infected/Total: 3/20
